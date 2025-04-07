@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swathi Murali
+# 👋 Hi, I'm Swathi 
 
 ## 🚀 About Me
 I'm a passionate **Data Analyst | AI Developer | Machine Learning Engineer** with expertise in Python, SQL, and advanced machine learning techniques. I thrive on solving complex problems using data-driven approaches and building AI-powered solutions.
@@ -6,6 +6,7 @@ I'm a passionate **Data Analyst | AI Developer | Machine Learning Engineer** wit
 - 🔭 I’m currently working on projects in **Natural Language Processing** and **Predictive Analytics**.
 - 🌱 I’m exploring cutting-edge tools like **PyTorch**, **TensorFlow**, and **Streamlit**.
 - 💬 Ask me about anything related to **Data Science**, **Machine Learning**, or **AI Development**.
+- 🎮 In my free time, I enjoy **gaming** & **traveling**
 
 ---
 
@@ -32,7 +33,9 @@ Optimized personalized offers using Starbucks customer data through clustering t
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwathiMurali&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiMurali&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=SwathiMurali&theme=radical)
+
 
 ---
 
