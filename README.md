@@ -32,6 +32,7 @@ Fine-tuned BERT model on 2M+ complaints for sentiment analysis and deployed via 
 
 ### [Starbucks Customer Data Optimization](https://github.com/Algo-Alchemists/DATS-6101-data-brew)
 Optimized personalized offers using Starbucks customer data through clustering techniques.
+
 ---
 
 ## 📈 GitHub Stats
