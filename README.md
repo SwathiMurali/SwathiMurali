@@ -24,12 +24,14 @@ I'm a passionate **Data Analyst | AI Developer | Machine Learning Engineer** wit
 ### [Fannie Mae Loan Performance Analysis](https://github.com/SwathiMurali/Fannie-Mae-Loan-Performance-Data-Insights)
 Analyzed Fannie Mae loan performance data to uncover trends in loan defaults and repayments using advanced statistical methods.
 
+### [Graph-Based Financial Analysis of SEC Filings](https://github.com/SwathiMurali/Graph-Based-Financial-Analysis-of-SEC-Filings)
+Built Neo4j and GraphRAG-powered framework with PySpark to analyze SEC filings for 16 companies, identifying five critical financial anomalies. Enabled natural language queries, enhancing fraud detection and risk assessment for auditors and investors.
+
 ### [Customer Complaint Sentiment Analysis](https://github.com/SwathiMurali/Customer-Complaint-Sentiment-Analysis-with-BERT)
 Fine-tuned BERT model on 2M+ complaints for sentiment analysis and deployed via Streamlit to help customer service teams prioritize responses.
 
 ### [Starbucks Customer Data Optimization](https://github.com/Algo-Alchemists/DATS-6101-data-brew)
 Optimized personalized offers using Starbucks customer data through clustering techniques.
-
 ---
 
 ## 📈 GitHub Stats
